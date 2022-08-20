@@ -2,15 +2,30 @@
 
 ## Unidade 1
 
-| Data		| Tema 			|
-| --------- | ------------- |
-| 23/08/22  | Introdução	|
-| 25/08/22	| Fundamentos   |
+- Introdução
+- Conceitos básicos
+- Fundamentos da imagem digital
+- Transformações de intensidades / histogramas
+- Python / Numpy
+- C / C++
+- Filtragem espacial
+- Ruído e restauração de imagens
 
 ## Unidade 2
 
-| Data		| Tema 			|
-| --------- | ------------- |
-| 23/08/22  | Introdução	|
-| 25/08/22	| Fundamentos   |
+- Filtragem no domínio da frequência
+- Cores
+- Multirresolução / Wavelets
+- Transformada Hough
+- Features
+- Descritores
+- Motion
+
+## Unidade 3
+
+- Calibração
+- Visão estéreo
+- Registro de imagens
+- Reconstrução 3D
+- Redes neurais / CNN / Deep Learning
 
