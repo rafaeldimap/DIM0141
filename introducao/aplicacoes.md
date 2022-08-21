@@ -1,25 +1,22 @@
-
-### Mapas
+# Aplicações PDI/Visão
 
 - [ATLAS: End-to-End 3D Scene Reconstruction from Posed Images (ECCV 2020)](https://www.youtube.com/watch?v=9NOPcOGV6nU)
 - [Google Maps](https://www.google.com/maps)
-
-### Comércio
-
 - [Entenda: como funcionam os QR Codes? – TecMundo](https://www.youtube.com/watch?v=BpUsuHCb-JE)
-
-### Automação
-
 - [Tesla Full Self-Driving](https://www.youtube.com/watch?v=tlThdr3O5Qo)
-
-### Segurança
-
 - [China's surveillance cameras can recognize you](https://www.youtube.com/watch?v=_yKga54tx6U)
-
-### Entreternimento
-
 - [Fizemos o melhor deepfake da Internet](https://www.youtube.com/watch?v=3vHvOyZ0GbY)
-
-### Realidade Aumentada
-
 - [holoportation: virtual 3D teleportation in real-time (Microsoft Research)](https://www.youtube.com/watch?v=7d59O6cfaM0)
+- [Spot Autonomous Navigation](https://www.youtube.com/watch?v=Ve9kWX_KXus)
+- [PyTorch and Monai for AI Healthcare Imaging - Python Machine Learning Course](https://www.youtube.com/watch?v=M3ZWfamWrBM)
+- [MedAI Session 30: GANs in Medical Image Synthesis, Translation, and Augmentation | Jason Jeong](https://www.youtube.com/watch?v=cz3_ckbdiKw)
+- [Automatic Camera Calibration for Traffic Understanding BMVC 2014](https://www.youtube.com/watch?v=S3msCdn3fNM)
+- [New Content Aware Fill Tool in Adobe After Effects CC How to remove objects from video](https://www.youtube.com/watch?v=tL0ZTEhH0Ew)
+- [Seam Carving for Content-Aware Image Resizing](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.570.6321&rep=rep1&type=pdf)
+- [StudioLink Chroma Key Background System](https://www.youtube.com/watch?v=JUZ7zqFa--o)
+- [ICNet for Real-Time Semantic Segmentation on High-Resolution Images](https://www.youtube.com/watch?v=qWl9idsCuLQ)
+- [Highlights: First Images from the James Webb Space Telescope Official NASA Video](https://www.youtube.com/watch?v=1C_zuHf6lP4)
+- [High Dynamic Range (HDR) Video Image Processing For Digital Glass](https://www.youtube.com/watch?v=ygcm0AQXX9k)
+- [Visual tracking of temperature](https://www.youtube.com/watch?v=8XgMHxAY75w)
+- [Real Time Interactive Image Segmentation Using User Indicated Real-World Seeds](https://www.youtube.com/watch?v=YIRwWgUy4-4)
+- [Quantificação de danos foliares em cajueiro](https://repositorio.ufrn.br/bitstream/123456789/37914/6/Quantifica%c3%a7%c3%a3o_de_danos_foliares_em_cajueiros_Medeiros_2018.pdf)
