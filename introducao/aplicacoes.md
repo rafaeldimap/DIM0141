@@ -1,17 +1,17 @@
 
 ### Mapas
 
-- [Reconstrução 3D](https://www.youtube.com/watch?v=9NOPcOGV6nU)
-- [Reconstrução 3D](https://www.google.com/maps)
+- [ATLAS: End-to-End 3D Scene Reconstruction from Posed Images (ECCV 2020)](https://www.youtube.com/watch?v=9NOPcOGV6nU)
+- [Google Maps](https://www.google.com/maps)
 
 ### Comércio
 
-- [QR Code](https://www.youtube.com/watch?v=BpUsuHCb-JE)
+- [Entenda: como funcionam os QR Codes? – TecMundo](https://www.youtube.com/watch?v=BpUsuHCb-JE)
 
 ### Automação
 
-- [Veículos autônomos](https://www.youtube.com/watch?v=tlThdr3O5Qo)
+- [Tesla Full Self-Driving](https://www.youtube.com/watch?v=tlThdr3O5Qo)
 
 ### Segurança
 
-- [Segurança](https://www.youtube.com/watch?v=_yKga54tx6U)
+- [China's surveillance cameras can recognize you](https://www.youtube.com/watch?v=_yKga54tx6U)
