@@ -19,3 +19,7 @@
 ### Entreternimento
 
 - [Fizemos o melhor deepfake da Internet](https://www.youtube.com/watch?v=3vHvOyZ0GbY)
+
+### Realidade Aumentada
+
+- [holoportation: virtual 3D teleportation in real-time (Microsoft Research)](https://www.youtube.com/watch?v=7d59O6cfaM0)
