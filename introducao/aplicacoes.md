@@ -15,3 +15,7 @@
 ### Segurança
 
 - [China's surveillance cameras can recognize you](https://www.youtube.com/watch?v=_yKga54tx6U)
+
+### Entreternimento
+
+- [Fizemos o melhor deepfake da Internet](https://www.youtube.com/watch?v=3vHvOyZ0GbY)
