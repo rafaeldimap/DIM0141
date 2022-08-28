@@ -5,9 +5,8 @@
 - Introdução
 - Conceitos básicos
 - Fundamentos da imagem digital
-- Transformações de intensidades / histogramas
 - Python / Numpy
-- C / C++
+- Transformações de intensidades / histogramas
 - Filtragem espacial
 - Ruído e restauração de imagens
 
